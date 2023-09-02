@@ -1,0 +1,22 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.recipe-title {
+  font-size: 700;
+  text-align: center;
+}
+.food-image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid;
+}
+.subheader {
+  text-align: center;
+}
+.description {
+  margin-left: 25px;
+}
+.return-link {
+  font-weight: 700;
+}
